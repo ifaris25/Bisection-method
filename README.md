@@ -1,4 +1,4 @@
-# Bisection-method
+# Bisection method
 The bisection method is an approximation method to find the roots of the given equation by repeatedly dividing the interval.
 
 ![image](https://user-images.githubusercontent.com/103695558/229824240-f4d369ee-6694-4733-bc55-51bc98f68cc5.png)
