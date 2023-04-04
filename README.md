@@ -6,7 +6,7 @@ The bisection method is an approximation method to find the roots of the given e
 
 # What is the output of the program?
 
-By determining the function equation and two points, you will get an Excel sheet with an approximate value for each iteration and the relative error.
+By determining the function equation and two points in **`global.h`**, you will get an Excel sheet with an approximate value for each iteration and the relative error.
 
 
 ![image](https://user-images.githubusercontent.com/103695558/229858341-e659dac4-da7c-411f-8055-b7a319125f3f.png)
